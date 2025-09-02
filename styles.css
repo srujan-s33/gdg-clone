@@ -82,7 +82,7 @@ ul { list-style: none; }
   display: inline-block; background: #1a73e8; color: #fff;
   padding: 10px 25px; border-radius: 4px; font-weight: 500;
 }
-.join-btn:hover { background: #0d62c9; }
+.join-btn:hover { background:white; color: #1a73e8; }
 
 /* About */
 .about-section { margin-top: 50px; padding: 20px 0; }
